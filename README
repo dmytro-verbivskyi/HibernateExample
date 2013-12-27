@@ -1,1 +1,7 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+Example project to show how to
+1. create hibernate SessionFactory.
+2. create table Person.
+3. insert 2 records into the table.
+4. select all from it.
+5. update 1 record.
+6. usage of HSQL and MySQL in hibernate.
